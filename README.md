@@ -1,3 +1,8 @@
+Changes from official
+=====================
+
+This fork installs `npm` 2.1.4
+
 Heroku Buildpack for Node.js
 ============================
 
