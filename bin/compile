@@ -59,6 +59,7 @@ cd $build_dir
 
 status "Upgrading npm to 2.1.4"
 npm install -g npm@2.1.4
+npm install npm@2.1.4
 
 # If node_modules directory is checked into source control then
 # rebuild any native deps. Otherwise, restore from the build cache.
